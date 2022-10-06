@@ -1,0 +1,7 @@
+inforacion del producto
+ Producto	 Precio	 Tipo
+naranja	1000.0	No perecedero
+limon	300.0	No perecedero
+guanabana	3000.0	No perecedero
+papaya	2000.0	No perecedero
+pomelo	1500.0	No perecedero

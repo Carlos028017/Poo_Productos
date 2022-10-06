@@ -1,6 +1,7 @@
 
 package Controlador;
 
+
 import Modelo.Cotizacion;
 import Modelo.Stock;
 import Modelo.Productos;
